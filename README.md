@@ -32,7 +32,7 @@
 
 <h3 align="left">Languages and Tools :</h3>
 <div style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=react,redux,js,github,wordpress,git,vite,html,css,&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,redux,js,github,nextjs,git,vite,html,css,&perline=6" />
 </div>
 
 <h3 align="left">Connect with me :</h3>
