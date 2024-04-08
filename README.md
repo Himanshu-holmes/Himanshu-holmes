@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Tech**
 
-- 📫 How to reach me **avishekgop5833@gmail.com**
+  
 
 
 
