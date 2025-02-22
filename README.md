@@ -42,6 +42,8 @@
 <img align="center" src="https://user-images.githubusercontent.com/110322488/211968732-cd861e70-37f4-4fbd-98d5-f78f1e3f5d9c.png" alt="twitter" height="30" width="30" /> </a>
 
 <a href="http://www.github.com/Himanshu-holmes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-holmes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<div></div>
+<div>
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-holmes&layout=compact)
+</div>
 
